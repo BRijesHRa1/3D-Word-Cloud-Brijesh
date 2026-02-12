@@ -41,4 +41,5 @@ I wrote a small script to handle the setup for both frontend and backend.
 
 ---
 
-_Demo video coming soon._
+Demo Video
+https://github.com/BRijesHRa1/3D-Word-Cloud-Brijesh/issues/1#issue-3929583457
